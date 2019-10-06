@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ActivitiesFeedNearby</string>
+    <string name="empty">_</string>
+    <string name="share">Share</string>
+    <string name="listen">Listen</string>
+</resources>
